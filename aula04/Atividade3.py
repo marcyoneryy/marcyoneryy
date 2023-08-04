@@ -1,0 +1,1 @@
+#3.	Faça um script que mostre os números pares em um intervalo definido pelo usuário.
