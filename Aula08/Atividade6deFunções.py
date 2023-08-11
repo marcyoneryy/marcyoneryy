@@ -1,4 +1,4 @@
-#Crie uma função em Python para mostrar apenas os valores de um dicionário.
+#Crie uma função em Python para mostrar as chaves e os valores de um dicionário.
 times = {
     'FLA':"Flamengo",
     'PAL':"Palmeiras",
@@ -7,4 +7,5 @@ times = {
     'CAM':"Altletico-MG",
     'CRU':"Cruzeiro",
 }
+print(times.keys())
 print(times.values())

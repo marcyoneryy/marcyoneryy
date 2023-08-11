@@ -7,4 +7,5 @@ times = {
     'CAM':"Altletico-MG",
     'CRU':"Cruzeiro",
 }
-print(times)
+print(times.keys())
+
